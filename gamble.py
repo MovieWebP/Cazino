@@ -40,3 +40,5 @@ YeahSan()
 batting()
 print(gamble())
 print(bedgit)
+
+#박겨털 겨털 깍아라 
